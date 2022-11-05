@@ -7,7 +7,7 @@ HackVault is my own vault of knowledge related to hacking. With a lot of notes, 
 In short terms, HackVault is the All In One Hacking Methodology.
 
 ## Credits
-- (HackTricks)[https://book.hacktricks.xyz/welcome/readme
+- (HackTricks)[https://book.hacktricks.xyz/welcome/readme]
 - (OWASP)[https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/]
 - (s4vitar)[https://www.youtube.com/channel/UCNHWpNqiM8yOQcHXtsluD7Q] - Special support for this guy <3
 - (IppSec)[https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA]
